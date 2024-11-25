@@ -1,0 +1,14 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "creating support system answering to people feedback",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdullahi",
+  "license": "ISC",
+  "dependencies": {
+    "@gab706/becrypt": "^1.1.1"                                            
+  }
+}
